@@ -8,3 +8,5 @@ class Person:
         connections (set of Person): other people in the social network
             who know this person.
     """
+    
+    #DEMONSTRATION FOR GITHUB DESKTOP 2
